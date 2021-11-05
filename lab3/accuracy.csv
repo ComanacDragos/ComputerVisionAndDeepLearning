@@ -1,0 +1,5 @@
+model,accuracy
+simple,0.70
+with_he,0.69
+with_he_and_regularization, 0.72
+with_he_and_regularization_and_dropout, 0.74
