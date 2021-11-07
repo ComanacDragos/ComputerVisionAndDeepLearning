@@ -1,6 +1,6 @@
 model,accuracy
-simple,0.70
-with_he,0.69
-with_he_and_regularization, 0.72
-with_he_and_regularization_and_dropout, 0.73
-with_he_and_regularization_and_dropout_and_cutout, 0.74
+simple,0.763
+with_he,0.74
+with_he_and_regularization, 0.784
+with_he_and_regularization_and_dropout, 0.793
+with_he_and_regularization_and_dropout_and_cutout, 0.783
