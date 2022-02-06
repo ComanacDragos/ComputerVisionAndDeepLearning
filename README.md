@@ -1,4 +1,4 @@
-# ComputerVisionAndDeepLearning
+# Computer Vision And Deep Learning
 
 <ul>
   <li>
